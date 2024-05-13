@@ -1,4 +1,4 @@
-# Text Classification Project
+# Ecommerce Product Description Classifier
 
 ## Overview
 This project aims to develop a text classification model to categorize products into different classes based on their descriptions. The goal is to build a machine learning model that can accurately classify products into predefined categories such as Electronics, Fashion, Home, and Sports.
